@@ -7,6 +7,10 @@
 Se quiser usar o Ansible para configurar a máquina é interessante mas não obrigatório, pode configurar via script também. 
 Enviar a URL GitHub do código.
 
+## Pré-requisitos
+- [Terraform](https://www.terraform.io/downloads.html)
+- [Azure Cli](https://docs.microsoft.com/pt-br/cli/azure/install-azure-cli)
+
 ## Instalação
 ### Método 1
 ```sh 
