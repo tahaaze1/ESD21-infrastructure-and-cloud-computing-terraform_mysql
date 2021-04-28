@@ -27,7 +27,7 @@ ssh usermaster@IP -i private_key.pem
 ```
 
 ### Método 2
-Crie um arquivo terraform.tvars com as variaveis abaixo:
+Crie um arquivo terraform.tfvars com as variaveis abaixo:
 
 ```
 #location westus2 ou eastus
