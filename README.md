@@ -10,7 +10,7 @@ Enviar a URL GitHub do código.
 ## Instalação
 ### Método 1
 ```sh 
-git clone https://github.com/luissena/es21-terraform_mysql_ansible.git && cd es21-terraform_mysql_ansible
+git clone https://github.com/luissena/es21-terraform_mysql.git && cd es21-terraform_mysql
 
 terraform init
 terraform plan
